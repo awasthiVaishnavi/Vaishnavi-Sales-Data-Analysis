@@ -46,7 +46,7 @@ This project presents a complete analysis of a retail sales dataset using Python
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/arjunnsunil/Sales-Data-Analysis-Dashboard.git
+   git clone https://github.com/awasthiVaishnavi/Vaishnavi-Sales-Data-Analysis.git
    cd Sales-Data-Analysis-Dashboard
 
 2. Open the notebook under "notebooks/sales_analysis.ipynb" using Jupyter or VS Code.
@@ -56,8 +56,8 @@ This project presents a complete analysis of a retail sales dataset using Python
 ---
 
 ## 📬 Contact
-Arjun C S
+Vaishnavi Awasthi
 
-LinkedIn: https://www.linkedin.com/in/arjun-c-s-0903b0227/
+LinkedIn: https://www.linkedin.com/in/vaishnavi-awasthi-96b759326/
 
-Email: arjunnnsunil@outlook.com
+Email: vaishnaviawasthi70@gmail.com
